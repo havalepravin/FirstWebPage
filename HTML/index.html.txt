@@ -1,6 +1,10 @@
 <html>
 <head>
+<<<<<<< HEAD
 <title>My First Web Page22222333333333333333...
+=======
+<title>User1:   My First Web Page22222333333333333333...
+>>>>>>> User1
 </title>
 
 </head>
